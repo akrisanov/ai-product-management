@@ -1,0 +1,4 @@
+jupyverse[auth, jupyterlab]
+pandas
+numpy
+scikit-learn
