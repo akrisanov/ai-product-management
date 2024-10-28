@@ -1,0 +1,4 @@
+.DS_Store
+.fileid.db
+.ipynb_checkpoints/
+.venv
